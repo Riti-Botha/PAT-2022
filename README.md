@@ -18,7 +18,7 @@ This project served as an illustrative example for instructing the following gra
 #### Development Tools:
 Utilized Delphi for coding, and incorporated text files in alignment with the grading criteria.
 
-## Skills Acquired:
+### Skills Acquired:
 - Debugging techiniques for large projects
 - Storing and editing data on a textfile
 - Input validation techniques
