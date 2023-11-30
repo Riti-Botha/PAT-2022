@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899 12 30 00:00:00.000.088,C:\Users\2022bothar\Documents\PAT 2022\PAT_P.dproj=C:\Users\2022bothar\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.456,C:\Users\2022bothar\Downloads\PAT PC\PAT 2022 (1)\PAT 2022\New1.txt=C:\Users\2022bothar\Downloads\PAT PC\PAT 2022 (1)\PAT 2022\Win32\Debug\Score.txt</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.056,=C:\Users\2022bothar\Downloads\PAT PC\PAT 2022 (1)\PAT 2022\New1.txt</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.702,C:\Users\2022bothar\Documents\PAT 2022\PAT_U.pas=C:\Users\2022bothar\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.521,=C:\Users\2022bothar\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.702,C:\Users\2022bothar\Documents\PAT 2022\PAT_U.dfm=C:\Users\2022bothar\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
